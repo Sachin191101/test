@@ -3,7 +3,7 @@
 
 Name: Sachin Agrawal
 
-Skills: HTML, CSS, JS
+Skills: HTML, CSS, JS,BOOTSTRAP
 
 Email: smartsachin3997@gmail.com
 
